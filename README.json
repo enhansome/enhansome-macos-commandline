@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52281283,
             "language": "Ruby",
-            "last_commit": "2026-08-18T04:28:59Z",
+            "last_commit": "2026-08-19T04:29:32Z",
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50217
+            "stars": 50220
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13297858,
             "language": "C",
             "last_commit": "2024-04-23T04:37:13Z",
             "owner": "vysheng",
             "repo": "tg",
-            "stars": 7153
+            "stars": 7159
           }
         }
       ],
@@ -44,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56353740,
             "language": "Go",
-            "last_commit": "2026-08-17T20:18:02Z",
+            "last_commit": "2026-08-19T03:36:00Z",
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32041
+            "stars": 32045
           }
         },
         {
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 62728051,
             "language": "Go",
             "last_commit": "2023-08-26T06:03:09Z",
             "owner": "minishift",
             "repo": "minishift",
-            "stars": 2494
+            "stars": 2493
           }
         }
       ],
@@ -78,11 +82,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66150122,
             "language": "C",
             "last_commit": "2026-08-17T16:17:54Z",
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21805
+            "stars": 21816
           }
         },
         {
@@ -92,11 +97,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 218157,
             "language": "Python",
             "last_commit": "2026-08-15T07:36:52Z",
             "owner": "ranger",
             "repo": "ranger",
-            "stars": 17351
+            "stars": 17354
           }
         },
         {
@@ -106,11 +112,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242406704,
             "language": "Rust",
             "last_commit": "2024-03-07T20:44:17Z",
             "owner": "imsnif",
             "repo": "diskonaut",
-            "stars": 3115
+            "stars": 3116
           }
         },
         {
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46884490,
             "language": "Go",
             "last_commit": "2026-06-21T09:26:43Z",
             "owner": "cortesi",
@@ -131,7 +139,7 @@
       "title": "File Managers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -140,11 +148,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 48795298,
             "language": "Shell",
             "last_commit": "2024-07-19T20:19:01Z",
             "owner": "dylanaraps",
             "repo": "neofetch",
-            "stars": 23709
+            "stars": 23708
           }
         },
         {
@@ -154,11 +163,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 148829497,
             "language": "Rust",
             "last_commit": "2026-08-17T07:04:40Z",
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12025
+            "stars": 12026
           }
         },
         {
@@ -168,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 210540791,
             "language": "Shell",
             "last_commit": "2024-02-03T22:34:25Z",
             "owner": "dylanaraps",
             "repo": "pfetch",
-            "stars": 2161
+            "stars": 2162
           }
         },
         {
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126449599,
             "language": "C",
             "last_commit": "2025-11-01T09:07:03Z",
             "owner": "Dr-Noob",
@@ -193,7 +205,7 @@
       "title": "Information"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -202,11 +214,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219616873,
             "language": "Go",
             "last_commit": "2026-08-16T00:02:03Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 26928
+            "stars": 26942
           }
         },
         {
@@ -216,6 +229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24022333,
             "language": "C",
             "last_commit": "2025-07-09T16:43:24Z",
             "owner": "visit1985",
@@ -236,11 +250,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307260205,
             "language": "Python",
-            "last_commit": "2026-08-17T07:37:53Z",
+            "last_commit": "2026-08-19T06:42:14Z",
             "owner": "yt-dlp",
             "repo": "yt-dlp",
-            "stars": 185195
+            "stars": 185486
           }
         },
         {
@@ -250,11 +265,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107286889,
             "language": "Go",
-            "last_commit": "2026-08-17T22:26:41Z",
+            "last_commit": "2026-08-18T22:30:48Z",
             "owner": "schollz",
             "repo": "croc",
-            "stars": 39867
+            "stars": 39927
           }
         },
         {
@@ -264,11 +280,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27388642,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T11:33:35Z",
+            "last_commit": "2026-08-19T00:01:27Z",
             "owner": "homebridge",
             "repo": "homebridge",
-            "stars": 25455
+            "stars": 25457
           }
         },
         {
@@ -278,11 +295,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24977535,
             "language": "Go",
             "last_commit": "2026-06-13T14:59:17Z",
             "owner": "dutchcoders",
             "repo": "transfer.sh",
-            "stars": 15881
+            "stars": 15882
           }
         },
         {
@@ -292,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 10179113,
             "language": "Python",
             "last_commit": "2022-08-09T14:46:32Z",
             "owner": "emre",
@@ -306,11 +325,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285115432,
             "language": "Rust",
-            "last_commit": "2026-08-17T12:48:24Z",
+            "last_commit": "2026-08-18T09:06:14Z",
             "owner": "lycheeverse",
             "repo": "lychee",
-            "stars": 3846
+            "stars": 3845
           }
         },
         {
@@ -320,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65123426,
             "language": "Go",
             "last_commit": "2022-10-24T21:30:06Z",
             "owner": "huydx",
@@ -334,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22295301,
             "language": "Swift",
             "last_commit": "2023-04-15T21:20:07Z",
             "owner": "halo",
@@ -348,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105174855,
             "language": "C",
             "last_commit": "2025-10-17T01:27:47Z",
             "owner": "six-ddc",
@@ -362,18 +385,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106156221,
             "language": "Go",
             "last_commit": "2022-02-11T06:40:44Z",
             "owner": "xwjdsh",
             "repo": "manssh",
             "stars": 310
           }
-        },
-        {
-          "node_type": "item",
-          "title": "hippo",
-          "description": "Host configuration file management based on git.",
-          "children": []
         }
       ],
       "title": "Networking"
@@ -388,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1831330,
             "language": "Shell",
             "last_commit": "2025-12-16T03:47:57Z",
             "owner": "dyne",
@@ -402,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8256964,
             "language": "HTML",
             "last_commit": "2021-05-26T10:50:50Z",
             "owner": "georgebrock",
@@ -416,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81016953,
             "language": "Shell",
             "last_commit": "2026-04-07T07:57:19Z",
             "owner": "roddhjav",
@@ -430,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 45860231,
             "language": "Go",
             "last_commit": "2019-03-20T00:44:39Z",
             "owner": "bndw",
@@ -444,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92438628,
             "language": "Go",
             "last_commit": "2026-07-10T15:29:47Z",
             "owner": "dmulholl",
@@ -458,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57232676,
             "language": "Go",
             "last_commit": "2020-07-11T11:59:05Z",
             "owner": "mkideal",
@@ -478,11 +502,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53631945,
             "language": "Rust",
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67360
+            "stars": 67389
           }
         },
         {
@@ -492,11 +517,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20553267,
             "language": "Go",
             "last_commit": "2026-08-01T10:02:37Z",
             "owner": "peco",
             "repo": "peco",
-            "stars": 7908
+            "stars": 7909
           }
         },
         {
@@ -506,11 +532,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21759532,
             "language": "C",
             "last_commit": "2025-07-29T23:14:14Z",
             "owner": "jhawthorn",
             "repo": "fzy",
-            "stars": 3294
+            "stars": 3293
           }
         }
       ],
@@ -526,11 +553,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49609581,
             "language": "C#",
-            "last_commit": "2026-08-17T23:51:00Z",
+            "last_commit": "2026-08-18T23:01:04Z",
             "owner": "PowerShell",
             "repo": "PowerShell",
-            "stars": 54927
+            "stars": 54980
           }
         },
         {
@@ -540,11 +568,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186024298,
             "language": "Rust",
-            "last_commit": "2026-08-16T15:57:20Z",
+            "last_commit": "2026-08-19T00:25:11Z",
             "owner": "nushell",
             "repo": "nushell",
-            "stars": 40282
+            "stars": 40293
           }
         },
         {
@@ -554,11 +583,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10717754,
             "language": "Go",
             "last_commit": "2026-03-31T22:04:07Z",
             "owner": "elves",
             "repo": "elvish",
-            "stars": 6358
+            "stars": 6359
           }
         }
       ],
@@ -574,11 +604,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51980455,
             "language": "Rust",
             "last_commit": "2026-08-17T19:36:06Z",
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65412
+            "stars": 65422
           }
         },
         {
@@ -588,11 +619,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130464961,
             "language": "Rust",
             "last_commit": "2026-08-11T14:39:20Z",
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60196
+            "stars": 60210
           }
         },
         {
@@ -602,11 +634,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90793418,
             "language": "Rust",
             "last_commit": "2026-08-11T17:42:55Z",
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44118
+            "stars": 44131
           }
         },
         {
@@ -616,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32665718,
             "language": "TypeScript",
             "last_commit": "2019-05-20T17:42:14Z",
             "owner": "railsware",
@@ -630,11 +664,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 209799228,
             "language": "Rust",
             "last_commit": "2026-07-28T09:05:10Z",
             "owner": "denisidoro",
             "repo": "navi",
-            "stars": 17452
+            "stars": 17456
           }
         },
         {
@@ -644,11 +679,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158927812,
             "language": "Rust",
             "last_commit": "2026-08-17T07:13:43Z",
             "owner": "lsd-rs",
             "repo": "lsd",
-            "stars": 16175
+            "stars": 16179
           }
         },
         {
@@ -658,11 +694,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 205042455,
             "language": "Rust",
-            "last_commit": "2026-08-18T04:00:38Z",
+            "last_commit": "2026-08-18T10:11:32Z",
             "owner": "ClementTsang",
             "repo": "bottom",
-            "stars": 13903
+            "stars": 13906
           }
         },
         {
@@ -672,11 +709,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 276444578,
             "language": "Python",
             "last_commit": "2025-06-01T20:57:08Z",
             "owner": "aristocratos",
             "repo": "bpytop",
-            "stars": 10916
+            "stars": 10917
           }
         },
         {
@@ -686,6 +724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95798441,
             "language": "Ruby",
             "last_commit": "2026-07-27T11:41:05Z",
             "owner": "athityakumar",
@@ -700,11 +739,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208680637,
             "language": "Rust",
             "last_commit": "2026-07-13T15:16:01Z",
             "owner": "bvaisvil",
             "repo": "zenith",
-            "stars": 3044
+            "stars": 3043
           }
         },
         {
@@ -714,18 +754,13 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 197859634,
             "language": "Rust",
             "last_commit": "2020-08-29T01:04:42Z",
             "owner": "cjbassi",
             "repo": "ytop",
             "stars": 2161
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Wiki",
-          "description": "Self-hosted wiki engine.",
-          "children": []
         }
       ],
       "title": "Shell Utilities"
@@ -740,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197261780,
             "language": "Rust",
             "last_commit": "2026-08-18T03:24:10Z",
             "owner": "bee-san",
@@ -754,8 +790,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54808920,
             "language": "Go",
-            "last_commit": "2026-08-18T06:39:40Z",
+            "last_commit": "2026-08-19T05:43:01Z",
             "owner": "future-architect",
             "repo": "vuls",
             "stars": 12232
@@ -768,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10801048,
             "language": "JavaScript",
             "last_commit": "2020-07-27T22:34:25Z",
             "owner": "jipegit",
@@ -782,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112631209,
             "language": "Rust",
             "last_commit": "2022-11-11T21:09:49Z",
             "owner": "sekey",
@@ -796,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17973518,
             "language": "JavaScript",
             "last_commit": "2020-11-05T00:50:22Z",
             "owner": "feross",
@@ -810,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53691088,
             "language": "Go",
             "last_commit": "2026-07-10T17:52:14Z",
             "owner": "pinterest",
@@ -824,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51417314,
             "language": "Go",
             "last_commit": "2024-02-16T20:24:00Z",
             "owner": "egen",
@@ -838,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32195795,
             "language": "Go",
             "last_commit": "2024-03-20T02:15:44Z",
             "owner": "miquella",
@@ -849,7 +892,7 @@
       "title": "Security"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -858,11 +901,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13807606,
             "language": "Go",
             "last_commit": "2026-08-17T03:11:26Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82557
+            "stars": 82576
           }
         },
         {
@@ -872,11 +916,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245166720,
             "language": "Rust",
-            "last_commit": "2026-08-17T19:14:18Z",
+            "last_commit": "2026-08-19T00:57:29Z",
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38696
+            "stars": 38717
           }
         },
         {
@@ -886,11 +931,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219616873,
             "language": "Go",
             "last_commit": "2026-08-16T00:02:03Z",
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 26928
+            "stars": 26942
           }
         },
         {
@@ -900,11 +946,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40092232,
             "language": "Swift",
             "last_commit": "2026-08-17T12:46:16Z",
             "owner": "mas-cli",
             "repo": "mas",
-            "stars": 12304
+            "stars": 12307
           }
         },
         {
@@ -914,11 +961,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118617559,
             "language": "Go",
             "last_commit": "2026-07-10T06:36:40Z",
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11591
+            "stars": 11593
           }
         },
         {
@@ -928,6 +976,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14621066,
             "language": "C",
             "last_commit": "2024-11-19T08:43:10Z",
             "owner": "Xfennec",
@@ -942,11 +991,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7331227,
             "language": "C++",
             "last_commit": "2026-08-07T17:25:31Z",
             "owner": "brndnmtthws",
             "repo": "conky",
-            "stars": 8469
+            "stars": 8470
           }
         },
         {
@@ -956,11 +1006,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37319088,
             "language": "Go",
             "last_commit": "2026-07-01T21:45:31Z",
             "owner": "johnste",
             "repo": "finicky",
-            "stars": 5025
+            "stars": 5026
           }
         },
         {
@@ -970,11 +1021,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2742985,
             "language": "Python",
             "last_commit": "2026-08-14T21:22:33Z",
             "owner": "andreafrancia",
             "repo": "trash-cli",
-            "stars": 4531
+            "stars": 4535
           }
         },
         {
@@ -984,11 +1036,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19813003,
             "language": "C",
             "last_commit": "2026-04-14T15:53:29Z",
             "owner": "adrianlopezroche",
             "repo": "fdupes",
-            "stars": 2998
+            "stars": 2999
           }
         },
         {
@@ -998,6 +1051,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126449599,
             "language": "C",
             "last_commit": "2025-11-01T09:07:03Z",
             "owner": "Dr-Noob",
@@ -1018,11 +1072,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134017286,
             "language": "Go",
-            "last_commit": "2026-08-17T07:32:38Z",
+            "last_commit": "2026-08-19T04:53:04Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81418
+            "stars": 81449
           }
         },
         {
@@ -1032,11 +1087,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51769689,
             "language": "TypeScript",
             "last_commit": "2026-08-15T04:51:35Z",
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 31945
+            "stars": 31951
           }
         },
         {
@@ -1046,11 +1102,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198683574,
             "language": "Go",
-            "last_commit": "2026-08-18T02:23:11Z",
+            "last_commit": "2026-08-19T01:55:25Z",
             "owner": "dolthub",
             "repo": "dolt",
-            "stars": 24205
+            "stars": 24220
           }
         },
         {
@@ -1060,6 +1117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10154151,
             "language": "JavaScript",
             "last_commit": "2026-08-05T05:38:12Z",
             "owner": "FredrikNoren",
@@ -1074,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 294556570,
             "language": "Go",
             "last_commit": "2023-02-21T19:06:59Z",
             "owner": "chriswalz",
@@ -1088,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40637960,
             "language": "Shell",
             "last_commit": "2026-04-06T15:14:45Z",
             "owner": "imsky",
@@ -1108,6 +1168,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10997446,
             "language": "JavaScript",
             "last_commit": "2023-01-04T14:18:56Z",
             "owner": "kimchi-project",
@@ -1122,35 +1183,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39674175,
             "language": "Python",
             "last_commit": "2022-12-14T05:21:26Z",
             "owner": "mechboxes",
             "repo": "mech",
             "stars": 312
           }
-        },
-        {
-          "node_type": "item",
-          "title": "vagrant-veertu",
-          "description": "Vagrant plugin for veertu.",
-          "children": []
         }
       ],
       "title": "Virtualization"
-    },
-    {
-      "description": "Created by Patrick H. Mullins. You can find me on Twitter and on Telegram as @pmullins.",
-      "items": [],
-      "title": "Author"
-    },
-    {
-      "description": "Source is released under the MIT License (MIT) license.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:12:35.542Z",
+    "last_updated": "2026-08-19T07:13:02.765Z",
     "original_repository": "phmullins/awesome-macos-commandline",
     "original_repository_sha": "68c2986db830cb4cde4e81d844993691927480b3",
     "enhanced_repository": "enhansome/enhansome-macos-commandline",
