@@ -10,12 +10,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "High precision scientific calculator with support for physical units",
+            "homepage": "https://numbat.dev/",
             "id": 83139742,
             "language": "PureScript",
+            "license": "MIT",
             "last_commit": "2025-02-10T20:25:49Z",
+            "open_issues": 4,
             "owner": "sharkdp",
             "repo": "insect",
-            "stars": 3168
+            "stars": 3168,
+            "topics": [
+              "calculator",
+              "mathematical-expressions",
+              "parser",
+              "physics",
+              "purescript",
+              "quantities",
+              "terminal-based",
+              "units",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -32,12 +47,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Change the audio source for Mac OS X from the command line.",
+            "homepage": null,
             "id": 21323300,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-07T17:06:56Z",
+            "open_issues": 21,
             "owner": "deweller",
             "repo": "switchaudio-osx",
-            "stars": 1440
+            "stars": 1440,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -54,12 +74,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "posixcube.sh is a POSIX compliant, shell script-based server automation framework.",
+            "homepage": null,
             "id": 76755603,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-02-16T15:55:14Z",
+            "open_issues": 8,
             "owner": "myplaceonline",
             "repo": "posixcube",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -76,12 +101,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Time Machine style backup with rsync.",
+            "homepage": null,
             "id": 13895467,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-05-27T12:30:01Z",
+            "open_issues": 113,
             "owner": "laurent22",
             "repo": "rsync-time-backup",
-            "stars": 3607
+            "stars": 3607,
+            "topics": [
+              "backup",
+              "bash",
+              "rsync",
+              "shell",
+              "time-machine"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -98,12 +134,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your self-hosted, globally interconnected microblogging community",
+            "homepage": "https://joinmastodon.org",
             "id": 52281283,
             "language": "Ruby",
-            "last_commit": "2026-08-28T16:26:57Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:29:02Z",
+            "open_issues": 4509,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50256
+            "stars": 50255,
+            "topics": [
+              "activity-stream",
+              "activitypub",
+              "docker",
+              "fediverse",
+              "mastodon",
+              "microblog",
+              "social-network",
+              "social-web",
+              "webfinger"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -114,12 +165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "telegram-cli",
+            "homepage": null,
             "id": 13297858,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2024-04-23T04:37:13Z",
+            "open_issues": 1187,
             "owner": "vysheng",
             "repo": "tg",
-            "stars": 7170
+            "stars": 7170,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -136,12 +192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "light-weight package manager for PostgreSQL",
+            "homepage": null,
             "id": 7744677,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2016-05-22T01:45:17Z",
+            "open_issues": 7,
             "owner": "petere",
             "repo": "pex",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -158,12 +219,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line client for SQL Server with auto-completion and syntax highlighting",
+            "homepage": null,
             "id": 106766050,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-02-26T20:08:44Z",
+            "open_issues": 162,
             "owner": "dbcli",
             "repo": "mssql-cli",
-            "stars": 1412
+            "stars": 1412,
+            "topics": [
+              "cli",
+              "database",
+              "python",
+              "sqlserver"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -180,12 +251,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Kubernetes locally",
+            "homepage": "https://minikube.sigs.k8s.io/",
             "id": 56353740,
             "language": "Go",
-            "last_commit": "2026-08-28T14:27:08Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:14:04Z",
+            "open_issues": 539,
             "owner": "kubernetes",
             "repo": "minikube",
-            "stars": 32074
+            "stars": 32073,
+            "topics": [
+              "cluster",
+              "cncf",
+              "containers",
+              "go",
+              "kubernetes",
+              "minikube"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -196,12 +279,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Run OpenShift 3.x locally | This project does not see active developement and maintenance.",
+            "homepage": null,
             "id": 62728051,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-26T06:03:09Z",
+            "open_issues": 141,
             "owner": "minishift",
             "repo": "minishift",
-            "stars": 2493
+            "stars": 2493,
+            "topics": [
+              "containers",
+              "development",
+              "development-tools",
+              "devops",
+              "go",
+              "kubernetes",
+              "minishift",
+              "openshift",
+              "openshift-local",
+              "openshift-origin",
+              "paas"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -218,12 +318,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "n³ The unorthodox terminal file manager",
+            "homepage": null,
             "id": 66150122,
             "language": "C",
-            "last_commit": "2026-08-26T22:09:22Z",
+            "license": "BSD-2-Clause",
+            "last_commit": "2026-08-29T00:23:16Z",
+            "open_issues": 4,
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 21841
+            "stars": 21842,
+            "topics": [
+              "android",
+              "batch-rename",
+              "c",
+              "cli",
+              "command-line",
+              "developer-tools",
+              "disk-usage",
+              "file-manager",
+              "file-preview",
+              "file-search",
+              "filesystem",
+              "launcher",
+              "multi-platform",
+              "ncurses",
+              "productivity",
+              "raspberry-pi",
+              "terminal",
+              "tui",
+              "vim",
+              "wsl"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -234,12 +360,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A VIM-inspired filemanager for the console",
+            "homepage": "https://ranger.fm",
             "id": 218157,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-15T07:36:52Z",
+            "open_issues": 898,
             "owner": "ranger",
             "repo": "ranger",
-            "stars": 17374
+            "stars": 17374,
+            "topics": [
+              "console",
+              "file-launcher",
+              "file-manager",
+              "file-preview",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -250,12 +387,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal disk space navigator 🔭",
+            "homepage": null,
             "id": 242406704,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-03-07T20:44:17Z",
+            "open_issues": 45,
             "owner": "imsnif",
             "repo": "diskonaut",
-            "stars": 3120
+            "stars": 3120,
+            "topics": [
+              "cli",
+              "disk-space",
+              "navigator",
+              "terminal",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -266,12 +414,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A flexible developer tool that runs processes and responds to filesystem changes",
+            "homepage": null,
             "id": 46884490,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-21T09:26:43Z",
+            "open_issues": 51,
             "owner": "cortesi",
             "repo": "modd",
-            "stars": 2966
+            "stars": 2966,
+            "topics": [
+              "developer-tools",
+              "livereload",
+              "process-manager"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -288,12 +445,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🖼️  A command-line system information tool written in bash 3.2+",
+            "homepage": null,
             "id": 48795298,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-07-19T20:19:01Z",
+            "open_issues": 467,
             "owner": "dylanaraps",
             "repo": "neofetch",
-            "stars": 23698
+            "stars": 23698,
+            "topics": [
+              "bash",
+              "command-line",
+              "commandline",
+              "distro",
+              "neofetch",
+              "screenshot",
+              "script"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -304,12 +474,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line Git information tool",
+            "homepage": "https://onefetch.dev",
             "id": 148829497,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:58:18Z",
+            "open_issues": 63,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12035
+            "stars": 12035,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-interface",
+              "git",
+              "rust",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -320,12 +502,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🐧 A pretty system information tool written in POSIX sh.",
+            "homepage": null,
             "id": 210540791,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-02-03T22:34:25Z",
+            "open_issues": 57,
             "owner": "dylanaraps",
             "repo": "pfetch",
-            "stars": 2159
+            "stars": 2159,
+            "topics": [
+              "neofetch",
+              "posix",
+              "screenfetch",
+              "shell",
+              "shell-script",
+              "system-information"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -336,12 +530,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple yet fancy CPU architecture fetching tool",
+            "homepage": null,
             "id": 126449599,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2025-11-01T09:07:03Z",
+            "open_issues": 131,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2139
+            "stars": 2139,
+            "topics": [
+              "amd",
+              "android",
+              "arm",
+              "cpus",
+              "intel",
+              "linux",
+              "macos",
+              "microarchitecture",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -358,12 +567,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+            "homepage": null,
             "id": 219616873,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-16T00:02:03Z",
+            "open_issues": 225,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27099
+            "stars": 27104,
+            "topics": [
+              "cli",
+              "excitement",
+              "hacktoberfest",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -374,12 +593,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line based markdown presentation tool.",
+            "homepage": null,
             "id": 24022333,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-09T16:43:24Z",
+            "open_issues": 12,
             "owner": "visit1985",
             "repo": "mdp",
-            "stars": 5276
+            "stars": 5276,
+            "topics": [
+              "command-line",
+              "markdown",
+              "presentation"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -396,12 +624,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A feature-rich command-line audio/video downloader",
+            "homepage": "https://discord.gg/H5MNcFW63r",
             "id": 307260205,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2026-08-27T23:05:39Z",
+            "open_issues": 2597,
             "owner": "yt-dlp",
             "repo": "yt-dlp",
-            "stars": 187540
+            "stars": 187602,
+            "topics": [
+              "cli",
+              "downloader",
+              "python",
+              "sponsorblock",
+              "youtube-dl",
+              "youtube-downloader",
+              "yt-dlp"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -412,12 +653,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily and securely send things from one computer to another :crocodile: :package:",
+            "homepage": "https://getcroc.com",
             "id": 107286889,
             "language": "Go",
-            "last_commit": "2026-08-28T18:41:38Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:29:10Z",
+            "open_issues": 2,
             "owner": "schollz",
             "repo": "croc",
-            "stars": 40128
+            "stars": 40129,
+            "topics": [
+              "data-transfer",
+              "file-sharing",
+              "golang",
+              "pake",
+              "peer-to-peer",
+              "tcp",
+              "transfer"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -428,12 +682,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HomeKit support for the impatient.",
+            "homepage": "https://homebridge.io",
             "id": 27388642,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T18:46:34Z",
+            "open_issues": 19,
             "owner": "homebridge",
             "repo": "homebridge",
-            "stars": 25465
+            "stars": 25466,
+            "topics": [
+              "hap",
+              "homebridge",
+              "homekit",
+              "homekit-accessory-protocol",
+              "homekit-api",
+              "homekit-bridge",
+              "siri"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -444,12 +711,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy and fast file sharing from the command-line.",
+            "homepage": "https://github.com/dutchcoders/transfer.sh",
             "id": 24977535,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-13T14:59:17Z",
+            "open_issues": 62,
             "owner": "dutchcoders",
             "repo": "transfer.sh",
-            "stars": 15886
+            "stars": 15886,
+            "topics": [
+              "docker",
+              "golang",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "share",
+              "transfer",
+              "transfersh"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -460,12 +740,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Manage your SSH like a boss.",
+            "homepage": "http://stormssh.readthedocs.org/en/master/",
             "id": 10179113,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-09T14:46:32Z",
+            "open_issues": 32,
             "owner": "emre",
             "repo": "storm",
-            "stars": 3914
+            "stars": 3914,
+            "topics": [
+              "python",
+              "ssh",
+              "sshconfig"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -476,12 +765,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
+            "homepage": "https://lychee.cli.rs",
             "id": 285115432,
             "language": "Rust",
-            "last_commit": "2026-08-28T08:35:53Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:21:05Z",
+            "open_issues": 75,
             "owner": "lycheeverse",
             "repo": "lychee",
-            "stars": 3869
+            "stars": 3871,
+            "topics": [
+              "broken-links",
+              "check",
+              "link",
+              "link-checker",
+              "link-checkers",
+              "link-checking",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -492,12 +794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " interruptable, resumable download accelerator written in golang",
+            "homepage": null,
             "id": 65123426,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-10-24T21:30:06Z",
+            "open_issues": 28,
             "owner": "huydx",
             "repo": "hget",
-            "stars": 996
+            "stars": 996,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -508,12 +815,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":wrench: Create macOS VPNs programmatically (L2TP & Cisco)",
+            "homepage": null,
             "id": 22295301,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-15T21:20:07Z",
+            "open_issues": 5,
             "owner": "halo",
             "repo": "macosvpn",
-            "stars": 466
+            "stars": 466,
+            "topics": [
+              "cisco",
+              "ipsec",
+              "keychain",
+              "l2tp",
+              "macos",
+              "ppp",
+              "vpn",
+              "vpn-client"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -524,12 +845,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive parallel ssh client featuring autocomplete and asynchronous execution.",
+            "homepage": null,
             "id": 105174855,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-10-17T01:27:47Z",
+            "open_issues": 9,
             "owner": "six-ddc",
             "repo": "hss",
-            "stars": 380
+            "stars": 380,
+            "topics": [
+              "autocompletion",
+              "command-line",
+              "multiple",
+              "parallel",
+              "pssh",
+              "readline",
+              "ssh",
+              "ssh-client"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -540,12 +875,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage your ssh alias configs easily.",
+            "homepage": null,
             "id": 106156221,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-02-11T06:40:44Z",
+            "open_issues": 2,
             "owner": "xwjdsh",
             "repo": "manssh",
-            "stars": 310
+            "stars": 310,
+            "topics": [
+              "command-line",
+              "golang",
+              "ssh",
+              "sshconfig"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -562,12 +907,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the Crypto Undertaker",
+            "homepage": "https://dyne.org/software/tomb",
             "id": 1831330,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-16T03:47:57Z",
+            "open_issues": 34,
             "owner": "dyne",
             "repo": "tomb",
-            "stars": 1581
+            "stars": 1581,
+            "topics": [
+              "crypto",
+              "dyne",
+              "encryption",
+              "files",
+              "filesystem",
+              "keys",
+              "linux",
+              "luks",
+              "secret-management",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -578,12 +939,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line interface for 1Password",
+            "homepage": null,
             "id": 8256964,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-05-26T10:50:50Z",
+            "open_issues": 25,
             "owner": "georgebrock",
             "repo": "1pass",
-            "stars": 986
+            "stars": 986,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -594,12 +960,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pass extension that helps you keep the whole tree of passwords encrypted inside a Tomb.",
+            "homepage": "https://www.passwordstore.org",
             "id": 81016953,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-07T07:57:19Z",
+            "open_issues": 7,
             "owner": "roddhjav",
             "repo": "pass-tomb",
-            "stars": 436
+            "stars": 436,
+            "topics": [
+              "pass",
+              "pass-extension",
+              "password-manager",
+              "password-store",
+              "password-tomb",
+              "secret-management",
+              "tomb"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -610,12 +989,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A secure and easy-to-use CLI password manager for macOS and Linux",
+            "homepage": null,
             "id": 45860231,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-03-20T00:44:39Z",
+            "open_issues": 9,
             "owner": "bndw",
             "repo": "pick",
-            "stars": 366
+            "stars": 366,
+            "topics": [
+              "aes-gcm",
+              "chacha20-poly1305",
+              "cli",
+              "crypto",
+              "linux",
+              "macos",
+              "openpgp",
+              "password",
+              "password-manager",
+              "pbkdf2",
+              "scrypt",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -626,12 +1023,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line password manager.",
+            "homepage": "https://www.dmulholl.com/docs/ironclad/master/",
             "id": 92438628,
             "language": "Go",
+            "license": "0BSD",
             "last_commit": "2026-07-10T15:29:47Z",
+            "open_issues": 1,
             "owner": "dmulholl",
             "repo": "ironclad",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -642,12 +1044,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "onepw is a command line tool for managing passwords",
+            "homepage": null,
             "id": 57232676,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-07-11T11:59:05Z",
+            "open_issues": 2,
             "owner": "mkideal",
             "repo": "onepw",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -664,12 +1071,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+            "homepage": null,
             "id": 53631945,
             "language": "Rust",
+            "license": "Unlicense",
             "last_commit": "2026-08-04T13:59:44Z",
+            "open_issues": 183,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67673
+            "stars": 67677,
+            "topics": [
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "gitignore",
+              "grep",
+              "recursively-search",
+              "regex",
+              "ripgrep",
+              "rust",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -680,12 +1103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplistic interactive filtering tool",
+            "homepage": null,
             "id": 20553267,
             "language": "Go",
-            "last_commit": "2026-08-22T10:02:34Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:53:17Z",
+            "open_issues": 8,
             "owner": "peco",
             "repo": "peco",
-            "stars": 7909
+            "stars": 7909,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -696,12 +1124,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mag: A simple, fast fuzzy finder for the terminal",
+            "homepage": null,
             "id": 21759532,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-07-29T23:14:14Z",
+            "open_issues": 57,
             "owner": "jhawthorn",
             "repo": "fzy",
-            "stars": 3297
+            "stars": 3297,
+            "topics": [
+              "c",
+              "cli",
+              "fuzzy",
+              "fuzzy-finders",
+              "fuzzy-search",
+              "fuzzyfinder",
+              "fzy",
+              "unix",
+              "vim"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -718,12 +1161,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerShell for every system!",
+            "homepage": "https://microsoft.com/PowerShell",
             "id": 49609581,
             "language": "C#",
-            "last_commit": "2026-08-28T18:14:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:32:32Z",
+            "open_issues": 1607,
             "owner": "PowerShell",
             "repo": "PowerShell",
-            "stars": 55167
+            "stars": 55176,
+            "topics": [
+              "command-line",
+              "hacktoberfest",
+              "linux",
+              "macos",
+              "netcore",
+              "powershell",
+              "shell",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -734,12 +1191,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A new type of shell",
+            "homepage": "https://www.nushell.sh/",
             "id": 186024298,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:38:50Z",
+            "open_issues": 1434,
             "owner": "nushell",
             "repo": "nushell",
-            "stars": 40357
+            "stars": 40362,
+            "topics": [
+              "nushell",
+              "rust",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -750,12 +1216,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful scripting language & versatile interactive shell",
+            "homepage": "https://elv.sh/",
             "id": 10717754,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-03-31T22:04:07Z",
+            "open_issues": 350,
             "owner": "elves",
             "repo": "elvish",
-            "stars": 6364
+            "stars": 6364,
+            "topics": [
+              "go",
+              "programming-language",
+              "shell",
+              "unix"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -772,12 +1248,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform, OpenGL terminal emulator.",
+            "homepage": "https://alacritty.org",
             "id": 51980455,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T04:17:18Z",
+            "open_issues": 338,
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65541
+            "stars": 65544,
+            "topics": [
+              "bsd",
+              "gpu",
+              "linux",
+              "macos",
+              "opengl",
+              "rust",
+              "terminal",
+              "terminal-emulators",
+              "vte",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -788,12 +1280,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cat(1) clone with wings.",
+            "homepage": null,
             "id": 130464961,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T14:39:20Z",
+            "open_issues": 424,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60286
+            "stars": 60289,
+            "topics": [
+              "cli",
+              "command-line",
+              "git",
+              "hacktoberfest",
+              "rust",
+              "syntax-highlighting",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -804,12 +1310,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, fast and user-friendly alternative to 'find'",
+            "homepage": null,
             "id": 90793418,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:52:24Z",
+            "open_issues": 196,
             "owner": "sharkdp",
             "repo": "fd",
-            "stars": 44234
+            "stars": 44237,
+            "topics": [
+              "cli",
+              "command-line",
+              "filesystem",
+              "hacktoberfest",
+              "regex",
+              "rust",
+              "search",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -820,12 +1341,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A terminal emulator for the 21st century.",
+            "homepage": null,
             "id": 32665718,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2019-05-20T17:42:14Z",
+            "open_issues": 220,
             "owner": "railsware",
             "repo": "upterm",
-            "stars": 19061
+            "stars": 19061,
+            "topics": [
+              "console",
+              "electron",
+              "pty",
+              "react",
+              "shell",
+              "terminal",
+              "terminal-emulators",
+              "terminals",
+              "tty",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -836,12 +1373,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive cheatsheet tool for the command-line",
+            "homepage": null,
             "id": 209799228,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-28T09:05:10Z",
+            "open_issues": 113,
             "owner": "denisidoro",
             "repo": "navi",
-            "stars": 17492
+            "stars": 17492,
+            "topics": [
+              "bash",
+              "cheatsheets",
+              "cli",
+              "command-line",
+              "rust",
+              "shell",
+              "snippet",
+              "snippets",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -852,12 +1404,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The next gen ls command",
+            "homepage": null,
             "id": 158927812,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T07:13:43Z",
+            "open_issues": 205,
             "owner": "lsd-rs",
             "repo": "lsd",
-            "stars": 16198
+            "stars": 16198,
+            "topics": [
+              "color",
+              "hacktoberfest",
+              "icons",
+              "ls",
+              "nerd-fonts",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -868,12 +1432,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another cross-platform graphical process/system monitor.",
+            "homepage": "https://bottom.pages.dev",
             "id": 205042455,
             "language": "Rust",
-            "last_commit": "2026-08-28T05:37:28Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:50:27Z",
+            "open_issues": 108,
             "owner": "ClementTsang",
             "repo": "bottom",
-            "stars": 13945
+            "stars": 13946,
+            "topics": [
+              "bottom",
+              "btm",
+              "cli",
+              "cross-platform",
+              "monitoring",
+              "rust",
+              "terminal",
+              "top",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -884,12 +1463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux/OSX/FreeBSD resource monitor",
+            "homepage": null,
             "id": 276444578,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-01T20:57:08Z",
+            "open_issues": 99,
             "owner": "aristocratos",
             "repo": "bpytop",
-            "stars": 10924
+            "stars": 10926,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -900,12 +1484,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. :tada:",
+            "homepage": null,
             "id": 95798441,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-27T11:41:05Z",
+            "open_issues": 87,
             "owner": "athityakumar",
             "repo": "colorls",
-            "stars": 5133
+            "stars": 5133,
+            "topics": [
+              "cli",
+              "color",
+              "eye-candy",
+              "gem",
+              "icons",
+              "ls",
+              "ruby",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -916,12 +1514,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage",
+            "homepage": null,
             "id": 208680637,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-25T19:05:58Z",
+            "open_issues": 40,
             "owner": "bvaisvil",
             "repo": "zenith",
-            "stars": 3044
+            "stars": 3044,
+            "topics": [
+              "cpu",
+              "disk",
+              "linux",
+              "macos",
+              "process-monitor",
+              "terminal-application",
+              "tui",
+              "zenith"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -932,12 +1544,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A TUI system monitor written in Rust",
+            "homepage": null,
             "id": 197859634,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2020-08-29T01:04:42Z",
+            "open_issues": 52,
             "owner": "cjbassi",
             "repo": "ytop",
-            "stars": 2161
+            "stars": 2161,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -954,12 +1571,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+            "homepage": null,
             "id": 197261780,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-26T03:25:30Z",
+            "open_issues": 0,
             "owner": "bee-san",
             "repo": "Ciphey",
-            "stars": 21582
+            "stars": 21582,
+            "topics": [
+              "artificial-intelligence",
+              "cipher",
+              "cpp",
+              "cryptography",
+              "ctf",
+              "ctf-tools",
+              "cyberchef-magic",
+              "decryption",
+              "deep-neural-network",
+              "encodings",
+              "encryptions",
+              "hacking",
+              "hacktoberfest",
+              "hashes",
+              "natural-language-processing",
+              "pentesting",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -970,12 +1610,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",
+            "homepage": "https://vuls.io/",
             "id": 54808920,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T08:47:42Z",
+            "open_issues": 87,
             "owner": "future-architect",
             "repo": "vuls",
-            "stars": 12245
+            "stars": 12246,
+            "topics": [
+              "administrator",
+              "cybersecurity",
+              "freebsd",
+              "go",
+              "golang",
+              "linux",
+              "security",
+              "security-audit",
+              "security-automation",
+              "security-hardening",
+              "security-scanner",
+              "security-tools",
+              "security-vulnerability",
+              "vulnerabilities",
+              "vulnerability-assessment",
+              "vulnerability-detection",
+              "vulnerability-management",
+              "vulnerability-scanner",
+              "vulnerability-scanners",
+              "vuls"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -986,12 +1652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OS X Auditor is a free Mac OS X computer forensics tool",
+            "homepage": null,
             "id": 10801048,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-27T22:34:25Z",
+            "open_issues": 8,
             "owner": "jipegit",
             "repo": "OSXAuditor",
-            "stars": 3135
+            "stars": 3135,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1002,12 +1673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Touch ID / Secure Enclave for SSH Authentication!",
+            "homepage": null,
             "id": 112631209,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-11-11T21:09:49Z",
+            "open_issues": 31,
             "owner": "sekey",
             "repo": "sekey",
-            "stars": 2517
+            "stars": 2517,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1018,12 +1694,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily spoof your MAC address in macOS, Windows, & Linux!",
+            "homepage": "https://feross.org/spoofmac/",
             "id": 17973518,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-11-05T00:50:22Z",
+            "open_issues": 14,
             "owner": "feross",
             "repo": "spoof",
-            "stars": 1868
+            "stars": 1868,
+            "topics": [
+              "javascript",
+              "linux",
+              "mac",
+              "nodejs",
+              "spoof",
+              "spoofmac",
+              "wifi"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1034,12 +1723,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Knox is a secret management service",
+            "homepage": null,
             "id": 53691088,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-10T17:52:14Z",
+            "open_issues": 9,
             "owner": "pinterest",
             "repo": "knox",
-            "stars": 1268
+            "stars": 1268,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1050,12 +1744,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vault CLI",
+            "homepage": null,
             "id": 51417314,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-02-16T20:24:00Z",
+            "open_issues": 19,
             "owner": "egen",
             "repo": "safe",
-            "stars": 421
+            "stars": 421,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1066,12 +1765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spawning and storage of secure environments",
+            "homepage": null,
             "id": 32195795,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-03-20T02:15:44Z",
+            "open_issues": 34,
             "owner": "miquella",
             "repo": "vaulted",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -1088,12 +1792,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cherry_blossom: A command-line fuzzy finder",
+            "homepage": "https://junegunn.github.io/fzf/",
             "id": 13807606,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:07:09Z",
+            "open_issues": 327,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82699
+            "stars": 82702,
+            "topics": [
+              "bash",
+              "cli",
+              "fish",
+              "fzf",
+              "go",
+              "neovim",
+              "tmux",
+              "unix",
+              "vim",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1104,12 +1824,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A smarter cd command. Supports all major shells.",
+            "homepage": "https://crates.io/crates/zoxide",
             "id": 245166720,
             "language": "Rust",
-            "last_commit": "2026-08-24T18:44:27Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:59:29Z",
+            "open_issues": 139,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 38988
+            "stars": 39000,
+            "topics": [
+              "autojump",
+              "bash",
+              "cli",
+              "command-line",
+              "command-line-tool",
+              "elvish",
+              "fasd",
+              "fish",
+              "fish-shell",
+              "fzf",
+              "hacktoberfest",
+              "jump",
+              "nushell",
+              "powershell",
+              "rust",
+              "shell",
+              "xonsh",
+              "xontrib",
+              "z",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1120,12 +1866,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+            "homepage": null,
             "id": 219616873,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-16T00:02:03Z",
+            "open_issues": 225,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27099
+            "stars": 27104,
+            "topics": [
+              "cli",
+              "excitement",
+              "hacktoberfest",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1136,12 +1892,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":package: Mac App Store command-line interface",
+            "homepage": null,
             "id": 40092232,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-08-25T18:16:29Z",
+            "open_issues": 87,
             "owner": "mas-cli",
             "repo": "mas",
-            "stars": 12326
+            "stars": 12327,
+            "topics": [
+              "app-store",
+              "homebrew",
+              "mac-app-store",
+              "macos",
+              "mas",
+              "osx",
+              "software-update"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1152,12 +1921,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple bookmark manager built with Go",
+            "homepage": null,
             "id": 118617559,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-10T06:36:40Z",
+            "open_issues": 115,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11619
+            "stars": 11619,
+            "topics": [
+              "bookmark-manager",
+              "command-line",
+              "go",
+              "golang",
+              "hacktoberfest",
+              "web-interface"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1168,12 +1949,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)",
+            "homepage": null,
             "id": 14621066,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-19T08:43:10Z",
+            "open_issues": 66,
             "owner": "Xfennec",
             "repo": "progress",
-            "stars": 8858
+            "stars": 8858,
+            "topics": [
+              "coreutils",
+              "linux",
+              "monitoring"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1184,12 +1974,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Light-weight system monitor for X, Wayland, and other things, too",
+            "homepage": "https://conky.cc",
             "id": 7331227,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-07T17:25:31Z",
+            "open_issues": 90,
             "owner": "brndnmtthws",
             "repo": "conky",
-            "stars": 8486
+            "stars": 8487,
+            "topics": [
+              "c-plus-plus",
+              "cairo",
+              "conky",
+              "imlib2",
+              "linux",
+              "lua",
+              "system-monitoring",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1200,12 +2004,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A macOS app for customizing which browser to start",
+            "homepage": null,
             "id": 37319088,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-01T21:45:31Z",
+            "open_issues": 50,
             "owner": "johnste",
             "repo": "finicky",
-            "stars": 5049
+            "stars": 5049,
+            "topics": [
+              "browser",
+              "go",
+              "handler",
+              "macos",
+              "menu",
+              "productivity",
+              "typescript",
+              "url"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1216,12 +2034,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line interface to the freedesktop.org trashcan.",
+            "homepage": null,
             "id": 2742985,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-22T14:42:06Z",
+            "open_issues": 83,
             "owner": "andreafrancia",
             "repo": "trash-cli",
-            "stars": 4561
+            "stars": 4563,
+            "topics": [
+              "linux",
+              "python",
+              "trashcan"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1232,12 +2059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FDUPES is a program for identifying or deleting duplicate files residing within specified directories.",
+            "homepage": null,
             "id": 19813003,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-14T15:53:29Z",
+            "open_issues": 95,
             "owner": "adrianlopezroche",
             "repo": "fdupes",
-            "stars": 3009
+            "stars": 3008,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1248,12 +2080,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple yet fancy CPU architecture fetching tool",
+            "homepage": null,
             "id": 126449599,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2025-11-01T09:07:03Z",
+            "open_issues": 131,
             "owner": "Dr-Noob",
             "repo": "cpufetch",
-            "stars": 2139
+            "stars": 2139,
+            "topics": [
+              "amd",
+              "android",
+              "arm",
+              "cpus",
+              "intel",
+              "linux",
+              "macos",
+              "microarchitecture",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -1270,12 +2117,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple terminal UI for git commands",
+            "homepage": null,
             "id": 134017286,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T17:38:28Z",
+            "open_issues": 1024,
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81734
+            "stars": 81737,
+            "topics": [
+              "cli",
+              "git",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1286,12 +2142,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+            "homepage": null,
             "id": 51769689,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T08:02:58Z",
+            "open_issues": 76,
             "owner": "refined-github",
             "repo": "refined-github",
-            "stars": 32001
+            "stars": 32002,
+            "topics": [
+              "browser-extension",
+              "chrome-extension",
+              "firefox-addon",
+              "github",
+              "github-extension",
+              "safari-extension",
+              "userstyle"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1302,12 +2171,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dolt – Git for Data",
+            "homepage": "https://www.dolthub.com",
             "id": 198683574,
             "language": "Go",
-            "last_commit": "2026-08-28T18:39:52Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:57:46Z",
+            "open_issues": 711,
             "owner": "dolthub",
             "repo": "dolt",
-            "stars": 24287
+            "stars": 24294,
+            "topics": [
+              "agent-memory",
+              "agent-memory-server",
+              "ai-agents",
+              "ai-database",
+              "data-version-control",
+              "data-versioning",
+              "database",
+              "database-version-control",
+              "database-versioning",
+              "decentralized-database",
+              "git",
+              "git-database",
+              "git-for-data",
+              "git-for-databases",
+              "git-sql",
+              "immutable-database",
+              "mariadb",
+              "mysql",
+              "sql",
+              "version-controlled-database"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1318,12 +2213,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest way to use git. On any platform. Anywhere.",
+            "homepage": null,
             "id": 10154151,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T05:38:12Z",
+            "open_issues": 233,
             "owner": "FredrikNoren",
             "repo": "ungit",
-            "stars": 10600
+            "stars": 10600,
+            "topics": [
+              "git",
+              "javascript",
+              "nodejs",
+              "ui",
+              "ungit"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1334,12 +2240,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bit is a modern Git CLI",
+            "homepage": null,
             "id": 294556570,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-21T19:06:59Z",
+            "open_issues": 32,
             "owner": "chriswalz",
             "repo": "bit",
-            "stars": 6103
+            "stars": 6103,
+            "topics": [
+              "autocomplete",
+              "bit",
+              "cli",
+              "git",
+              "golang",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "interactive",
+              "prompt"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1350,12 +2271,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":lemon: Keep your Git repo fresh.",
+            "homepage": null,
             "id": 40637960,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-06T15:14:45Z",
+            "open_issues": 5,
             "owner": "imsky",
             "repo": "git-fresh",
-            "stars": 512
+            "stars": 512,
+            "topics": [
+              "git",
+              "hacktoberfest",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -1372,12 +2302,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An HTML5 management interface for KVM guests",
+            "homepage": "https://github.com/kimchi-project/kimchi/releases/latest",
             "id": 10997446,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-04T14:18:56Z",
+            "open_issues": 335,
             "owner": "kimchi-project",
             "repo": "kimchi",
-            "stars": 3200
+            "stars": 3200,
+            "topics": [
+              "kvm",
+              "libvirt",
+              "linux",
+              "web-application"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         },
@@ -1388,12 +2328,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy command line virtual machines for VMWare",
+            "homepage": "https://mechboxes.github.io/mech/",
             "id": 39674175,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-14T05:21:26Z",
+            "open_issues": 26,
             "owner": "mechboxes",
             "repo": "mech",
-            "stars": 312
+            "stars": 312,
+            "topics": [
+              "cli",
+              "python",
+              "vagrant",
+              "vmware"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -1410,12 +2360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webarchiver allows you to create Safari .webarchive files from the command line. This project was featured on the Github blog in December 2008 👍",
+            "homepage": null,
             "id": 82247,
             "language": "Objective-C",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-01T03:58:06Z",
+            "open_issues": 0,
             "owner": "newzealandpaul",
             "repo": "webarchiver",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -1432,12 +2387,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Move/Resize windows using modifiers and the mouse",
+            "homepage": null,
             "id": 44938316,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-03-26T20:50:37Z",
+            "open_issues": 1,
             "owner": "keith",
             "repo": "ModMove",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "macos",
+              "osx",
+              "window-manager"
+            ]
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
         }
@@ -1446,15 +2410,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:52:17.988Z",
+    "last_updated": "2026-08-29T04:39:54.972Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome command-line software for macOS.",
+      "homepage": null,
       "id": 80767428,
       "language": null,
+      "license": "MIT",
       "last_commit": "2022-08-06T04:04:21Z",
+      "open_issues": 11,
       "owner": "phmullins",
       "repo": "awesome-macos-commandline",
-      "stars": 663
+      "stars": 663,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "commandline",
+        "knowledge-management",
+        "macos",
+        "software"
+      ]
     },
     "original_repository_sha": "68c2986db830cb4cde4e81d844993691927480b3",
     "enhanced_repository": "enhansome/enhansome-macos-commandline",
