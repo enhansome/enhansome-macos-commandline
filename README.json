@@ -139,11 +139,11 @@
             "id": 52281283,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T10:22:24Z",
-            "open_issues": 4560,
+            "last_commit": "2026-10-06T13:24:56Z",
+            "open_issues": 4566,
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50353,
+            "stars": 50355,
             "topics": [
               "activity-stream",
               "activitypub",
@@ -327,7 +327,7 @@
             "open_issues": 1,
             "owner": "jarun",
             "repo": "nnn",
-            "stars": 22046,
+            "stars": 22047,
             "topics": [
               "android",
               "batch-rename",
@@ -369,7 +369,7 @@
             "open_issues": 897,
             "owner": "ranger",
             "repo": "ranger",
-            "stars": 17417,
+            "stars": 17418,
             "topics": [
               "console",
               "file-launcher",
@@ -396,7 +396,7 @@
             "open_issues": 47,
             "owner": "imsnif",
             "repo": "diskonaut",
-            "stars": 3140,
+            "stars": 3141,
             "topics": [
               "cli",
               "disk-space",
@@ -454,7 +454,7 @@
             "open_issues": 467,
             "owner": "dylanaraps",
             "repo": "neofetch",
-            "stars": 23666,
+            "stars": 23667,
             "topics": [
               "bash",
               "command-line",
@@ -483,7 +483,7 @@
             "open_issues": 59,
             "owner": "o2sh",
             "repo": "onefetch",
-            "stars": 12055,
+            "stars": 12056,
             "topics": [
               "cli",
               "command-line",
@@ -576,7 +576,7 @@
             "open_issues": 242,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27594,
+            "stars": 27596,
             "topics": [
               "cli",
               "excitement",
@@ -633,7 +633,7 @@
             "open_issues": 2684,
             "owner": "yt-dlp",
             "repo": "yt-dlp",
-            "stars": 195878,
+            "stars": 195902,
             "topics": [
               "cli",
               "downloader",
@@ -662,7 +662,7 @@
             "open_issues": 2,
             "owner": "schollz",
             "repo": "croc",
-            "stars": 40521,
+            "stars": 40523,
             "topics": [
               "data-transfer",
               "file-sharing",
@@ -688,10 +688,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-30T08:47:53Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "homebridge",
             "repo": "homebridge",
-            "stars": 25501,
+            "stars": 25502,
             "topics": [
               "hap",
               "homebridge",
@@ -749,7 +749,7 @@
             "open_issues": 79,
             "owner": "lycheeverse",
             "repo": "lychee",
-            "stars": 3981,
+            "stars": 3985,
             "topics": [
               "broken-links",
               "check",
@@ -1080,7 +1080,7 @@
             "open_issues": 202,
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 68876,
+            "stars": 68880,
             "topics": [
               "cli",
               "command-line",
@@ -1112,7 +1112,7 @@
             "open_issues": 5,
             "owner": "peco",
             "repo": "peco",
-            "stars": 7913,
+            "stars": 7914,
             "topics": []
           },
           "first_seen": "2026-08-28T18:52:17.988Z"
@@ -1170,7 +1170,7 @@
             "open_issues": 1606,
             "owner": "PowerShell",
             "repo": "PowerShell",
-            "stars": 55610,
+            "stars": 55611,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -1197,10 +1197,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-05T21:37:30Z",
-            "open_issues": 1472,
+            "open_issues": 1474,
             "owner": "nushell",
             "repo": "nushell",
-            "stars": 40626,
+            "stars": 40625,
             "topics": [
               "nushell",
               "rust",
@@ -1257,7 +1257,7 @@
             "open_issues": 340,
             "owner": "alacritty",
             "repo": "alacritty",
-            "stars": 65893,
+            "stars": 65892,
             "topics": [
               "bsd",
               "gpu",
@@ -1289,7 +1289,7 @@
             "open_issues": 543,
             "owner": "sharkdp",
             "repo": "bat",
-            "stars": 60688,
+            "stars": 60689,
             "topics": [
               "cli",
               "command-line",
@@ -1316,7 +1316,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T03:00:03Z",
-            "open_issues": 198,
+            "open_issues": 199,
             "owner": "sharkdp",
             "repo": "fd",
             "stars": 44646,
@@ -1382,7 +1382,7 @@
             "open_issues": 115,
             "owner": "denisidoro",
             "repo": "navi",
-            "stars": 17723,
+            "stars": 17727,
             "topics": [
               "bash",
               "cheatsheets",
@@ -1413,7 +1413,7 @@
             "open_issues": 211,
             "owner": "lsd-rs",
             "repo": "lsd",
-            "stars": 16252,
+            "stars": 16253,
             "topics": [
               "color",
               "hacktoberfest",
@@ -1580,7 +1580,7 @@
             "open_issues": 60,
             "owner": "bee-san",
             "repo": "Ciphey",
-            "stars": 21657,
+            "stars": 21659,
             "topics": [
               "artificial-intelligence",
               "cipher",
@@ -1619,7 +1619,7 @@
             "open_issues": 92,
             "owner": "future-architect",
             "repo": "vuls",
-            "stars": 12278,
+            "stars": 12279,
             "topics": [
               "administrator",
               "cybersecurity",
@@ -1801,7 +1801,7 @@
             "open_issues": 333,
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 83400,
+            "stars": 83399,
             "topics": [
               "bash",
               "cli",
@@ -1833,7 +1833,7 @@
             "open_issues": 144,
             "owner": "ajeetdsouza",
             "repo": "zoxide",
-            "stars": 39903,
+            "stars": 39907,
             "topics": [
               "autojump",
               "bash",
@@ -1875,7 +1875,7 @@
             "open_issues": 242,
             "owner": "charmbracelet",
             "repo": "glow",
-            "stars": 27594,
+            "stars": 27596,
             "topics": [
               "cli",
               "excitement",
@@ -1901,7 +1901,7 @@
             "open_issues": 89,
             "owner": "mas-cli",
             "repo": "mas",
-            "stars": 12375,
+            "stars": 12376,
             "topics": [
               "app-store",
               "homebrew",
@@ -1979,11 +1979,11 @@
             "id": 7331227,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T00:24:57Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-06T13:13:06Z",
+            "open_issues": 75,
             "owner": "brndnmtthws",
             "repo": "conky",
-            "stars": 8530,
+            "stars": 8531,
             "topics": [
               "c-plus-plus",
               "cairo",
@@ -2126,7 +2126,7 @@
             "open_issues": 1044,
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 82921,
+            "stars": 82927,
             "topics": [
               "cli",
               "git",
@@ -2180,7 +2180,7 @@
             "open_issues": 594,
             "owner": "dolthub",
             "repo": "dolt",
-            "stars": 24579,
+            "stars": 24582,
             "topics": [
               "agent-memory",
               "agent-memory-server",
@@ -2222,7 +2222,7 @@
             "open_issues": 241,
             "owner": "FredrikNoren",
             "repo": "ungit",
-            "stars": 10604,
+            "stars": 10605,
             "topics": [
               "git",
               "javascript",
@@ -2410,7 +2410,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:53:24.220Z",
+    "last_updated": "2026-10-06T13:28:01.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome command-line software for macOS.",
