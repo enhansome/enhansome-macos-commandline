@@ -77,8 +77,8 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Communication Applications.*
 
-* [mastodon](https://github.com/tootsuite/mastodon) ⭐ 50,494 | 🐛 4,625 | 🌐 Ruby | 📅 2026-11-07 - Self-hosted, globally interconnected microblogging community.
-* [tg](https://github.com/vysheng/tg) ⭐ 7,232 | 🐛 1,187 | 🌐 C | 📅 2024-04-23 - Command Line Telegram.
+* [mastodon](https://github.com/tootsuite/mastodon) ⭐ 50,496 | 🐛 4,635 | 🌐 Ruby | 📅 2026-11-08 - Self-hosted, globally interconnected microblogging community.
+* [tg](https://github.com/vysheng/tg) ⭐ 7,231 | 🐛 1,187 | 🌐 C | 📅 2024-04-23 - Command Line Telegram.
 * [RaspChat](http://beta.raspchat.com) - A chat server that can run on Raspberry Pi.
 * [The Lounge](https://thelounge.github.io/) - Self-hosted web IRC client.
 
@@ -104,17 +104,17 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *DevOps tools and utilities.*
 
-* [Minikube](https://github.com/kubernetes/minikube) ⭐ 32,228 | 🐛 618 | 🌐 Go | 📅 2026-11-04 - Run Kubernetes locally.
+* [Minikube](https://github.com/kubernetes/minikube) ⭐ 32,228 | 🐛 619 | 🌐 Go | 📅 2026-11-08 - Run Kubernetes locally.
 * [Minishift](https://github.com/minishift/minishift) ⚠️ Archived - Run OpenShift locally.
 
 ### File Managers
 
 *File management tools and utilities.*
 
-* [nnn](https://github.com/jarun/nnn) ⭐ 22,112 | 🐛 1 | 🌐 C | 📅 2026-11-01 - The missing terminal file browser.
+* [nnn](https://github.com/jarun/nnn) ⭐ 22,111 | 🐛 1 | 🌐 C | 📅 2026-11-01 - The missing terminal file browser.
 * [ranger](https://github.com/ranger/ranger) ⭐ 17,453 | 🐛 897 | 🌐 Python | 📅 2026-09-09 - A console file manager with VI key bindings.
-* [diskonaut](https://github.com/imsnif/diskonaut) ⭐ 3,152 | 🐛 48 | 🌐 Rust | 📅 2024-03-07 - Terminal disk space navigator.
-* [modd](https://github.com/cortesi/modd) ⭐ 2,970 | 🐛 51 | 🌐 Go | 📅 2026-06-21 - A flexible tool for responding to filesystem changes.
+* [diskonaut](https://github.com/imsnif/diskonaut) ⭐ 3,153 | 🐛 48 | 🌐 Rust | 📅 2024-03-07 - Terminal disk space navigator.
+* [modd](https://github.com/cortesi/modd) ⭐ 2,971 | 🐛 51 | 🌐 Go | 📅 2026-06-21 - A flexible tool for responding to filesystem changes.
 * [ncdu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 
 ### Graphics
@@ -126,7 +126,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 ### Information
 
 * [neofetch](https://github.com/dylanaraps/neofetch) ⚠️ Archived - A command-line system information tool written in bash 3.2+.
-* [onefetch](https://github.com/o2sh/onefetch) ⭐ 12,083 | 🐛 64 | 🌐 Rust | 📅 2026-11-07 - A command-line Git information tool written in Rust.
+* [onefetch](https://github.com/o2sh/onefetch) ⭐ 12,082 | 🐛 64 | 🌐 Rust | 📅 2026-11-07 - A command-line Git information tool written in Rust.
 * [cpufetch](https://github.com/Dr-Noob/cpufetch) ⭐ 2,165 | 🐛 139 | 🌐 C | 📅 2025-11-01 - Simple yet fancy CPU architecture fetching tool.
 * [pfetch](https://github.com/dylanaraps/pfetch/) ⚠️ Archived - A pretty system information tool.
 
@@ -138,12 +138,12 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 ### Markdown
 
-* [glow](https://github.com/charmbracelet/glow) ⭐ 27,949 | 🐛 267 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI, with pizzazz! 💅🏻
-* [mdp](https://github.com/visit1985/mdp) ⭐ 5,282 | 🐛 7 | 🌐 C | 📅 2026-09-09 - Markdown presentation tool.
+* [glow](https://github.com/charmbracelet/glow) ⭐ 27,965 | 🐛 267 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI, with pizzazz! 💅🏻
+* [mdp](https://github.com/visit1985/mdp) ⭐ 5,281 | 🐛 7 | 🌐 C | 📅 2026-09-09 - Markdown presentation tool.
 
 ### Miscellaneous
 
-* [genact](https://github.com/svenstaro/genact) ⭐ 12,225 | 🐛 15 | 🌐 Rust | 📅 2026-11-02 - A nonsense activity generator
+* [genact](https://github.com/svenstaro/genact) ⭐ 12,226 | 🐛 15 | 🌐 Rust | 📅 2026-11-02 - A nonsense activity generator
 * [nb](https://xwmx.github.io/nb/) -  Note‑taking, bookmarking, archiving, knowledge-base.
 * [vice](https://sourceforge.net/projects/vice-emu/) -  Emulates the C64, C64-DTV, C128, VIC20, PET, PLUS4, and CBM-II.
 
@@ -151,11 +151,11 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Networking tools and utilities.*
 
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 205,910 | 🐛 2,770 | 🌐 Python | 📅 2026-11-04 - Download videos from YouTube.com and other video sites.
-* [Croc](https://github.com/schollz/croc) ⭐ 40,876 | 🐛 5 | 🌐 Go | 📅 2026-11-04 - Securely send things from one computer to another.
-* [homebridge](https://github.com/nfarina/homebridge) ⭐ 25,543 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-01 - HomeKit support for the impatient.
-* [Transfer](https://github.com/dutchcoders/transfer.sh) ⭐ 15,908 | 🐛 54 | 🌐 Go | 📅 2026-10-31 - Easy file sharing from the command line.
-* [lychee](https://github.com/lycheeverse/lychee) ⭐ 4,101 | 🐛 77 | 🌐 Rust | 📅 2026-11-02 - Link checker written in Rust
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 206,130 | 🐛 2,774 | 🌐 Python | 📅 2026-11-04 - Download videos from YouTube.com and other video sites.
+* [Croc](https://github.com/schollz/croc) ⭐ 40,883 | 🐛 5 | 🌐 Go | 📅 2026-11-07 - Securely send things from one computer to another.
+* [homebridge](https://github.com/nfarina/homebridge) ⭐ 25,545 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-08 - HomeKit support for the impatient.
+* [Transfer](https://github.com/dutchcoders/transfer.sh) ⭐ 15,909 | 🐛 54 | 🌐 Go | 📅 2026-10-31 - Easy file sharing from the command line.
+* [lychee](https://github.com/lycheeverse/lychee) ⭐ 4,106 | 🐛 77 | 🌐 Rust | 📅 2026-11-02 - Link checker written in Rust
 * [Hget](https://github.com/huydx/hget) ⭐ 991 | 🐛 28 | 🌐 Go | 📅 2022-10-24 - Rocket fast download accelerator.
 * [MacOS VPN](https://github.com/halo/macosvpn) ⭐ 467 | 🐛 3 | 🌐 Swift | 📅 2026-10-27 - Create macOS VPNs programmatically.
 * [hss](https://github.com/six-ddc/hss) ⭐ 380 | 🐛 10 | 🌐 C | 📅 2025-10-17 - An interactive parallel ssh client.
@@ -171,7 +171,7 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Various password managers for macOS.*
 
-* [Tomb](https://github.com/dyne/Tomb) ⭐ 1,600 | 🐛 36 | 🌐 Shell | 📅 2025-12-16 - The Crypto Undertaker.
+* [Tomb](https://github.com/dyne/Tomb) ⭐ 1,601 | 🐛 36 | 🌐 Shell | 📅 2025-12-16 - The Crypto Undertaker.
 * [1pass](https://github.com/georgebrock/1pass) ⭐ 986 | 🐛 25 | 🌐 HTML | 📅 2021-05-26 - A command line interface for 1Password.
 * [pass-tomb](https://github.com/roddhjav/pass-tomb) ⭐ 437 | 🐛 7 | 🌐 Shell | 📅 2026-04-07 -  Store password encrypted inside a tomb.
 * [pick](https://github.com/bndw/pick) ⚠️ Archived - Minimal password manager for OS X and Linux.
@@ -195,16 +195,16 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Tools to help you find stuff*
 
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,859 | 🐛 226 | 🌐 Rust | 📅 2026-10-27 - Combines the usability of The Silver Searcher with the raw speed of grep.
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,893 | 🐛 225 | 🌐 Rust | 📅 2026-10-27 - Combines the usability of The Silver Searcher with the raw speed of grep.
 * [Peco](https://github.com/peco/peco) ⭐ 7,906 | 🐛 3 | 🌐 Go | 📅 2026-11-07 - Simplistic interactive filtering tool.
-* [fzy](https://github.com/jhawthorn/fzy) ⭐ 3,310 | 🐛 59 | 🌐 C | 📅 2025-07-29 - A better fuzzy finder.
+* [fzy](https://github.com/jhawthorn/fzy) ⭐ 3,309 | 🐛 59 | 🌐 C | 📅 2025-07-29 - A better fuzzy finder.
 
 ### Shells
 
 *Various UNIX shells for macOS*
 
-* [powershell](https://github.com/powershell/powershell) ⭐ 56,043 | 🐛 1,617 | 🌐 C# | 📅 2026-11-06 -  Microsoft PowerShell.
-* [Nu Shell](https://github.com/nushell/nushell) ⭐ 41,051 | 🐛 1,458 | 🌐 Rust | 📅 2026-11-06 - A modern shell for the GitHub era.
+* [powershell](https://github.com/powershell/powershell) ⭐ 56,055 | 🐛 1,618 | 🌐 C# | 📅 2026-11-06 -  Microsoft PowerShell.
+* [Nu Shell](https://github.com/nushell/nushell) ⭐ 41,058 | 🐛 1,458 | 🌐 Rust | 📅 2026-11-08 - A modern shell for the GitHub era.
 * [Elvish](https://github.com/elves/elvish) ⭐ 6,396 | 🐛 351 | 🌐 Go | 📅 2026-03-31 - A friendly and expressive Unix shell.
 * [fish](https://fishshell.com/) - User-friendly command-line shell.
 * [zsh](https://www.zsh.org/) - Powerful interactive shell.
@@ -213,16 +213,16 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Shell Utilities for macOS.*
 
-* [alacritty](https://github.com/jwilm/alacritty) ⭐ 66,124 | 🐛 346 | 🌐 Rust | 📅 2026-11-06 - A cross-platform, GPU-accelerated terminal emulator.
-* [bat](https://github.com/sharkdp/bat) ⭐ 61,217 | 🐛 563 | 🌐 Rust | 📅 2026-11-07 - OSS cat replacement.
-* [fd](https://github.com/sharkdp/fd) ⭐ 45,102 | 🐛 205 | 🌐 Rust | 📅 2026-11-07 - Simple, fast and user-friendly alternative to find.
+* [alacritty](https://github.com/jwilm/alacritty) ⭐ 66,132 | 🐛 346 | 🌐 Rust | 📅 2026-11-06 - A cross-platform, GPU-accelerated terminal emulator.
+* [bat](https://github.com/sharkdp/bat) ⭐ 61,231 | 🐛 563 | 🌐 Rust | 📅 2026-11-08 - OSS cat replacement.
+* [fd](https://github.com/sharkdp/fd) ⭐ 45,117 | 🐛 205 | 🌐 Rust | 📅 2026-11-07 - Simple, fast and user-friendly alternative to find.
 * [upterm](https://github.com/railsware/upterm) ⚠️ Archived - A terminal emulator for the 21st century.
-* [navi](https://github.com/denisidoro/navi) ⭐ 17,841 | 🐛 130 | 🌐 Rust | 📅 2026-10-16 - An interactive cheatsheet tool for the command-line.
+* [navi](https://github.com/denisidoro/navi) ⭐ 17,844 | 🐛 130 | 🌐 Rust | 📅 2026-10-16 - An interactive cheatsheet tool for the command-line.
 * [lsd](https://github.com/Peltoche/lsd) ⭐ 16,281 | 🐛 218 | 🌐 Rust | 📅 2026-08-17 - The next gen ls command.
 * [bottom](https://github.com/ClementTsang/bottom) ⭐ 14,166 | 🐛 103 | 🌐 Rust | 📅 2026-11-04 - Yet another cross-platform graphical process/system monitor.
 * [bpytop](https://github.com/aristocratos/bpytop) ⭐ 10,928 | 🐛 99 | 🌐 Python | 📅 2025-06-01 - macOS resource monitor.
 * [colorls](https://github.com/athityakumar/colorls) ⭐ 5,150 | 🐛 88 | 🌐 Ruby | 📅 2026-07-27 - Beautify the terminal `ls` command.
-* [zenith](https://github.com/bvaisvil/zenith) ⭐ 3,068 | 🐛 40 | 🌐 Rust | 📅 2026-10-01 - Like top or htop but with zoom-able charts, network, and disk usage.
+* [zenith](https://github.com/bvaisvil/zenith) ⭐ 3,069 | 🐛 40 | 🌐 Rust | 📅 2026-10-01 - Like top or htop but with zoom-able charts, network, and disk usage.
 * [ytop](https://github.com/cjbassi/ytop) ⚠️ Archived - A TUI system monitor written in Rust.
 * [dat](https://datproject.org/) - Distributed data sharing tool.
 * [dvm](https://howtowhale.github.io/dvm/) - Install and switch between Docker clients.
@@ -239,8 +239,8 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Various security and encryption tools.*
 
-* [Ciphey](https://github.com/Ciphey/Ciphey) ⭐ 21,748 | 🐛 72 | 🌐 Rust | 📅 2026-11-06 - Decrypt data without knowing the key or cipher. Uses ML.
-* [vuls](https://github.com/future-architect/vuls) ⭐ 12,330 | 🐛 101 | 🌐 Go | 📅 2026-11-06 - Go-based, agentless vulnerability scanner.
+* [Ciphey](https://github.com/Ciphey/Ciphey) ⭐ 21,750 | 🐛 73 | 🌐 Rust | 📅 2026-11-06 - Decrypt data without knowing the key or cipher. Uses ML.
+* [vuls](https://github.com/future-architect/vuls) ⭐ 12,331 | 🐛 101 | 🌐 Go | 📅 2026-11-06 - Go-based, agentless vulnerability scanner.
 * [MacOS Auditor](https://github.com/jipegit/OSXAuditor) ⭐ 3,128 | 🐛 9 | 🌐 JavaScript | 📅 2020-07-27 - A free MacOS computer forensics tool.
 * [SeKey](https://github.com/ntrippar/sekey) ⭐ 2,517 | 🐛 31 | 🌐 Rust | 📅 2022-11-11 - Authenticate to UNIX/Linux SSH servers using the Secure Enclave.
 * [Spoof](https://github.com/feross/spoof) ⭐ 1,866 | 🐛 14 | 🌐 JavaScript | 📅 2020-11-05 - Change your MAC address for debugging.
@@ -253,15 +253,15 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 ### System
 
-* [fzf](https://github.com/junegunn/fzf) ⭐ 84,055 | 🐛 333 | 🌐 Go | 📅 2026-11-07 - A command-line fuzzy finder written in Go.
-* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,488 | 🐛 159 | 🌐 Rust | 📅 2026-11-07 - A faster way to navigate your filesystem.
-* [glow](https://github.com/charmbracelet/glow) ⭐ 27,949 | 🐛 267 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI, with pizzazz!
-* [mas-cli](https://github.com/mas-cli/mas) ⭐ 12,419 | 🐛 92 | 🌐 Swift | 📅 2026-11-06 - Mac App Store command line interface.
-* [shiori](https://github.com/RadhiFadlillah/shiori) ⭐ 11,702 | 🐛 118 | 🌐 Go | 📅 2026-10-26 - Shiori is a simple bookmarks manager written in Go.
+* [fzf](https://github.com/junegunn/fzf) ⭐ 84,072 | 🐛 333 | 🌐 Go | 📅 2026-11-07 - A command-line fuzzy finder written in Go.
+* [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,507 | 🐛 156 | 🌐 Rust | 📅 2026-11-08 - A faster way to navigate your filesystem.
+* [glow](https://github.com/charmbracelet/glow) ⭐ 27,965 | 🐛 267 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI, with pizzazz!
+* [mas-cli](https://github.com/mas-cli/mas) ⭐ 12,418 | 🐛 92 | 🌐 Swift | 📅 2026-11-06 - Mac App Store command line interface.
+* [shiori](https://github.com/RadhiFadlillah/shiori) ⭐ 11,785 | 🐛 118 | 🌐 Go | 📅 2026-10-26 - Shiori is a simple bookmarks manager written in Go.
 * [progress](https://github.com/Xfennec/progress) ⭐ 8,854 | 🐛 66 | 🌐 C | 📅 2024-11-19 - Tool to show progress for cp, mv, dd.
-* [Conky](https://github.com/brndnmtthws/conky) ⭐ 8,557 | 🐛 69 | 🌐 C++ | 📅 2026-11-06 - Light-weight system monitor for X.
-* [finicky](https://github.com/johnste/finicky) ⭐ 5,254 | 🐛 67 | 🌐 Go | 📅 2026-10-28 - Customize which browser to start.
-* [trash-cli](https://github.com/andreafrancia/trash-cli) ⭐ 4,622 | 🐛 82 | 🌐 Python | 📅 2026-11-07 - Command line interface to the freedesktop.org trashcan.
+* [Conky](https://github.com/brndnmtthws/conky) ⭐ 8,561 | 🐛 69 | 🌐 C++ | 📅 2026-11-06 - Light-weight system monitor for X.
+* [finicky](https://github.com/johnste/finicky) ⭐ 5,255 | 🐛 67 | 🌐 Go | 📅 2026-10-28 - Customize which browser to start.
+* [trash-cli](https://github.com/andreafrancia/trash-cli) ⭐ 4,622 | 🐛 86 | 🌐 Python | 📅 2026-11-08 - Command line interface to the freedesktop.org trashcan.
 * [fDupes](https://github.com/adrianlopezroche/fdupes) ⭐ 3,035 | 🐛 96 | 🌐 C | 📅 2026-04-14 - Identifying and/or deleting duplicate files.
 * [cpufetch](https://github.com/Dr-Noob/cpufetch) ⭐ 2,165 | 🐛 139 | 🌐 C | 📅 2025-11-01 - Simple yet fancy CPU architecture fetching tool.
 * [CollectD](http://collectd.org/) - System statistics collection daemon.
@@ -289,9 +289,9 @@ A curated list of fantastically awesome command-line software for macOS. This li
 
 *Version Control utilities*
 
-* [LazyGit](https://github.com/jesseduffield/lazygit) ⭐ 83,704 | 🐛 1,066 | 🌐 Go | 📅 2026-11-06 - Simple terminal UI for git commands.
-* [Refined](https://github.com/sindresorhus/refined-github) ⭐ 32,454 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-07 - Browser extension that simplifies the GitHub interface.
-* [dolt](https://github.com/dolthub/dolt) ⭐ 24,839 | 🐛 680 | 🌐 Go | 📅 2026-11-07 - It's Git for Data.
+* [LazyGit](https://github.com/jesseduffield/lazygit) ⭐ 83,732 | 🐛 1,069 | 🌐 Go | 📅 2026-11-08 - Simple terminal UI for git commands.
+* [Refined](https://github.com/sindresorhus/refined-github) ⭐ 32,455 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-07 - Browser extension that simplifies the GitHub interface.
+* [dolt](https://github.com/dolthub/dolt) ⭐ 24,842 | 🐛 678 | 🌐 Go | 📅 2026-11-08 - It's Git for Data.
 * [ungit](https://github.com/FredrikNoren/ungit) ⭐ 10,614 | 🐛 243 | 🌐 JavaScript | 📅 2026-09-03 - The easiest way to use git.
 * [Bit](https://github.com/chriswalz/bit) ⭐ 6,098 | 🐛 32 | 🌐 Go | 📅 2023-02-21 - Bit is a modern Git CLI.
 * [GitFresh](https://github.com/imsky/git-fresh) ⭐ 510 | 🐛 5 | 🌐 Shell | 📅 2026-04-06 - Keep your Git repo fresh.
@@ -336,4 +336,4 @@ Source is released under the MIT License (MIT) [license](license.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
